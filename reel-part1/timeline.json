@@ -1,0 +1,740 @@
+{
+ "fps": 30,
+ "total": 55.97,
+ "lines": [
+  {
+   "id": "L01",
+   "text": "You woke up, and everyone had a timer over their head.",
+   "src": "audio/vo/L01.wav",
+   "start": 0.25,
+   "dur": 3.446,
+   "words": [
+    [
+     "You",
+     0.25
+    ],
+    [
+     "woke",
+     0.494
+    ],
+    [
+     "up,",
+     0.793
+    ],
+    [
+     "and",
+     1.118
+    ],
+    [
+     "everyone",
+     1.363
+    ],
+    [
+     "had",
+     1.878
+    ],
+    [
+     "a",
+     2.122
+    ],
+    [
+     "timer",
+     2.258
+    ],
+    [
+     "over",
+     2.611
+    ],
+    [
+     "their",
+     2.909
+    ],
+    [
+     "head.",
+     3.262
+    ]
+   ]
+  },
+  {
+   "id": "L02",
+   "text": "Your mom. Sixty-one years.",
+   "src": "audio/vo/L02.wav",
+   "start": 4.146,
+   "dur": 2.004,
+   "words": [
+    [
+     "Your",
+     4.146
+    ],
+    [
+     "mom.",
+     4.502
+    ],
+    [
+     "Sixty-one",
+     4.954
+    ],
+    [
+     "years.",
+     5.568
+    ]
+   ]
+  },
+  {
+   "id": "L03",
+   "text": "Your dog. Three years.",
+   "src": "audio/vo/L03.wav",
+   "start": 6.45,
+   "dur": 1.698,
+   "words": [
+    [
+     "Your",
+     6.45
+    ],
+    [
+     "dog.",
+     6.784
+    ],
+    [
+     "Three",
+     7.208
+    ],
+    [
+     "years.",
+     7.603
+    ]
+   ]
+  },
+  {
+   "id": "L04",
+   "text": "Normal. Almost... comforting.",
+   "src": "audio/vo/L04.wav",
+   "start": 8.449,
+   "dur": 2.063,
+   "words": [
+    [
+     "Normal.",
+     8.449
+    ],
+    [
+     "Almost...",
+     8.992
+    ],
+    [
+     "comforting.",
+     9.752
+    ]
+   ]
+  },
+  {
+   "id": "L05",
+   "text": "Then, on the bus, a stranger. Four minutes.",
+   "src": "audio/vo/L05.wav",
+   "start": 11.062,
+   "dur": 2.865,
+   "words": [
+    [
+     "Then,",
+     11.062
+    ],
+    [
+     "on",
+     11.486
+    ],
+    [
+     "the",
+     11.672
+    ],
+    [
+     "bus,",
+     11.911
+    ],
+    [
+     "a",
+     12.282
+    ],
+    [
+     "stranger.",
+     12.415
+    ],
+    [
+     "Four",
+     13.051
+    ],
+    [
+     "minutes.",
+     13.343
+    ]
+   ]
+  },
+  {
+   "id": "L06",
+   "text": "You watched it count down.",
+   "src": "audio/vo/L06.wav",
+   "start": 14.227,
+   "dur": 1.565,
+   "words": [
+    [
+     "You",
+     14.227
+    ],
+    [
+     "watched",
+     14.454
+    ],
+    [
+     "it",
+     14.883
+    ],
+    [
+     "count",
+     15.06
+    ],
+    [
+     "down.",
+     15.388
+    ]
+   ]
+  },
+  {
+   "id": "L07a",
+   "text": "Three.",
+   "src": "audio/vo/L07a.wav",
+   "start": 16.142,
+   "dur": 0.777,
+   "words": [
+    [
+     "Three.",
+     16.142
+    ]
+   ]
+  },
+  {
+   "id": "L07b",
+   "text": "Two.",
+   "src": "audio/vo/L07b.wav",
+   "start": 17.142,
+   "dur": 0.676,
+   "words": [
+    [
+     "Two.",
+     17.142
+    ]
+   ]
+  },
+  {
+   "id": "L07c",
+   "text": "One.",
+   "src": "audio/vo/L07c.wav",
+   "start": 18.142,
+   "dur": 0.649,
+   "words": [
+    [
+     "One.",
+     18.142
+    ]
+   ]
+  },
+  {
+   "id": "L08",
+   "text": "He collapsed.",
+   "src": "audio/vo/L08.wav",
+   "start": 19.742,
+   "dur": 1.001,
+   "words": [
+    [
+     "He",
+     19.742
+    ],
+    [
+     "collapsed.",
+     19.954
+    ]
+   ]
+  },
+  {
+   "id": "L09",
+   "text": "Nobody looked up. Only you reacted.",
+   "src": "audio/vo/L09.wav",
+   "start": 21.093,
+   "dur": 2.676,
+   "words": [
+    [
+     "Nobody",
+     21.093
+    ],
+    [
+     "looked",
+     21.571
+    ],
+    [
+     "up.",
+     22.049
+    ],
+    [
+     "Only",
+     22.431
+    ],
+    [
+     "you",
+     22.781
+    ],
+    [
+     "reacted.",
+     23.068
+    ]
+   ]
+  },
+  {
+   "id": "L10",
+   "text": "That night, you finally looked in the mirror.",
+   "src": "audio/vo/L10.wav",
+   "start": 24.469,
+   "dur": 2.517,
+   "words": [
+    [
+     "That",
+     24.469
+    ],
+    [
+     "night,",
+     24.73
+    ],
+    [
+     "you",
+     25.157
+    ],
+    [
+     "finally",
+     25.371
+    ],
+    [
+     "looked",
+     25.775
+    ],
+    [
+     "in",
+     26.131
+    ],
+    [
+     "the",
+     26.297
+    ],
+    [
+     "mirror.",
+     26.511
+    ]
+   ]
+  },
+  {
+   "id": "L11",
+   "text": "Your timer was the shortest in the room.",
+   "src": "audio/vo/L11.wav",
+   "start": 27.286,
+   "dur": 2.433,
+   "words": [
+    [
+     "Your",
+     27.286
+    ],
+    [
+     "timer",
+     27.574
+    ],
+    [
+     "was",
+     27.914
+    ],
+    [
+     "the",
+     28.149
+    ],
+    [
+     "shortest",
+     28.385
+    ],
+    [
+     "in",
+     28.882
+    ],
+    [
+     "the",
+     29.065
+    ],
+    [
+     "room.",
+     29.3
+    ]
+   ]
+  },
+  {
+   "id": "L12",
+   "text": "Six days.",
+   "src": "audio/vo/L12.wav",
+   "start": 29.968,
+   "dur": 1.037,
+   "words": [
+    [
+     "Six",
+     29.968
+    ],
+    [
+     "days.",
+     30.341
+    ]
+   ]
+  },
+  {
+   "id": "L13",
+   "text": "And your reflection... moved a little late.",
+   "src": "audio/vo/L13.wav",
+   "start": 31.906,
+   "dur": 2.615,
+   "words": [
+    [
+     "And",
+     31.906
+    ],
+    [
+     "your",
+     32.13
+    ],
+    [
+     "reflection...",
+     32.404
+    ],
+    [
+     "moved",
+     33.301
+    ],
+    [
+     "a",
+     33.625
+    ],
+    [
+     "little",
+     33.749
+    ],
+    [
+     "late.",
+     34.123
+    ]
+   ]
+  },
+  {
+   "id": "L14",
+   "text": "The next morning, your teacher turned around.",
+   "src": "audio/vo/L14.wav",
+   "start": 35.271,
+   "dur": 2.854,
+   "words": [
+    [
+     "The",
+     35.271
+    ],
+    [
+     "next",
+     35.516
+    ],
+    [
+     "morning,",
+     35.815
+    ],
+    [
+     "your",
+     36.413
+    ],
+    [
+     "teacher",
+     36.712
+    ],
+    [
+     "turned",
+     37.174
+    ],
+    [
+     "around.",
+     37.581
+    ]
+   ]
+  },
+  {
+   "id": "L15",
+   "text": "Six days.",
+   "src": "audio/vo/L15.wav",
+   "start": 38.425,
+   "dur": 1.037,
+   "words": [
+    [
+     "Six",
+     38.425
+    ],
+    [
+     "days.",
+     38.798
+    ]
+   ]
+  },
+  {
+   "id": "L16",
+   "text": "Same as yours. To the second.",
+   "src": "audio/vo/L16.wav",
+   "start": 39.912,
+   "dur": 2.096,
+   "words": [
+    [
+     "Same",
+     39.912
+    ],
+    [
+     "as",
+     40.232
+    ],
+    [
+     "yours.",
+     40.436
+    ],
+    [
+     "To",
+     40.96
+    ],
+    [
+     "the",
+     41.164
+    ],
+    [
+     "second.",
+     41.426
+    ]
+   ]
+  },
+  {
+   "id": "L17",
+   "text": "You don't know why.",
+   "src": "audio/vo/L17.wav",
+   "start": 42.358,
+   "dur": 1.256,
+   "words": [
+    [
+     "You",
+     42.358
+    ],
+    [
+     "don't",
+     42.609
+    ],
+    [
+     "know",
+     42.916
+    ],
+    [
+     "why.",
+     43.223
+    ]
+   ]
+  },
+  {
+   "id": "L18",
+   "text": "So... do you tell her?",
+   "src": "audio/vo/L18.wav",
+   "start": 44.414,
+   "dur": 1.402,
+   "words": [
+    [
+     "So...",
+     44.414
+    ],
+    [
+     "do",
+     44.874
+    ],
+    [
+     "you",
+     45.035
+    ],
+    [
+     "tell",
+     45.242
+    ],
+    [
+     "her?",
+     45.494
+    ]
+   ]
+  },
+  {
+   "id": "L19",
+   "text": "Or do you follow her?",
+   "src": "audio/vo/L19.wav",
+   "start": 46.117,
+   "dur": 1.415,
+   "words": [
+    [
+     "Or",
+     46.117
+    ],
+    [
+     "do",
+     46.308
+    ],
+    [
+     "you",
+     46.498
+    ],
+    [
+     "follow",
+     46.743
+    ],
+    [
+     "her?",
+     47.151
+    ]
+   ]
+  },
+  {
+   "id": "L20",
+   "text": "Comment A to tell her, or B to follow her. The majority decides Part Two.",
+   "src": "audio/vo/L20.wav",
+   "start": 48.082,
+   "dur": 5.688,
+   "words": [
+    [
+     "Comment",
+     48.082
+    ],
+    [
+     "A",
+     48.644
+    ],
+    [
+     "to",
+     48.81
+    ],
+    [
+     "tell",
+     49.041
+    ],
+    [
+     "her,",
+     49.405
+    ],
+    [
+     "or",
+     49.868
+    ],
+    [
+     "B",
+     50.099
+    ],
+    [
+     "to",
+     50.265
+    ],
+    [
+     "follow",
+     50.496
+    ],
+    [
+     "her.",
+     50.992
+    ],
+    [
+     "The",
+     51.455
+    ],
+    [
+     "majority",
+     51.753
+    ],
+    [
+     "decides",
+     52.381
+    ],
+    [
+     "Part",
+     52.944
+    ],
+    [
+     "Two.",
+     53.307
+    ]
+   ]
+  }
+ ],
+ "scenes": [
+  {
+   "id": "S01_wake",
+   "start": 0.0,
+   "end": 1.038
+  },
+  {
+   "id": "S02_street",
+   "start": 1.038,
+   "end": 3.946
+  },
+  {
+   "id": "S03_kitchen",
+   "start": 3.946,
+   "end": 10.812
+  },
+  {
+   "id": "S04_bus",
+   "start": 10.812,
+   "end": 19.142
+  },
+  {
+   "id": "S05_collapse",
+   "start": 19.142,
+   "end": 22.331
+  },
+  {
+   "id": "S06_reaction",
+   "start": 22.331,
+   "end": 24.169
+  },
+  {
+   "id": "S07_mirror",
+   "start": 24.169,
+   "end": 35.021
+  },
+  {
+   "id": "S08_class",
+   "start": 35.021,
+   "end": 39.712
+  },
+  {
+   "id": "S09_compare",
+   "start": 39.712,
+   "end": 44.114
+  },
+  {
+   "id": "S10_choice",
+   "start": 44.114,
+   "end": 55.97
+  }
+ ],
+ "events": {
+  "eyes_open": 0.18,
+  "street_timers": 1.872,
+  "mom_timer": 4.954,
+  "dog_timer": 7.208,
+  "stranger_timer": 13.051,
+  "fast_from": 14.227,
+  "three": 16.142,
+  "two": 17.142,
+  "one": 18.142,
+  "collapse": 19.142,
+  "reaction": 22.331,
+  "room_timers": 27.486,
+  "my_timer": 29.968,
+  "tilt": 32.106,
+  "smile": 33.749,
+  "turn": 37.875,
+  "teacher_timer": 38.425,
+  "card_a": 44.414,
+  "card_b": 46.117,
+  "cta": 48.082,
+  "endcard": 54.12,
+  "total": 55.97
+ }
+}

@@ -1,0 +1,411 @@
+{
+  "title": "The Timer Over Their Heads \u2014 Part 1",
+  "series_premise": "You're the only one who can see the timer over people's heads. Yours is the shortest.",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "target_duration_s": [
+      45,
+      60
+    ]
+  },
+  "style": {
+    "look": "2D hand-drawn cartoon, bold dark outlines with line boil, flat colors, dark moody navy/purple/teal palette",
+    "accent": "#FF4D1F (timers only)",
+    "narrator": "calm, slightly uneasy, second person"
+  },
+  "characters": {
+    "you": "teen, messy black hair, pale skin, dark under-eyes, dark teal hoodie",
+    "mom": "brown bob, mauve cardigan, mug of coffee \u2014 timer 61 years",
+    "dog": "grey-brown mutt, floppy ears, red-free dark collar \u2014 timer 3 years",
+    "stranger": "man in dark beanie, grey coat, headphones \u2014 timer 4 minutes",
+    "teacher": "auburn bun, round glasses, dark green blazer \u2014 timer 6 days"
+  },
+  "narration": [
+    {
+      "id": "L01",
+      "text": "You woke up, and everyone had a timer over their head.",
+      "pause_after": 0.45,
+      "final_start": 0.25
+    },
+    {
+      "id": "L02",
+      "text": "Your mom. Sixty-one years.",
+      "pause_after": 0.3,
+      "final_start": 4.146
+    },
+    {
+      "id": "L03",
+      "text": "Your dog. Three years.",
+      "pause_after": 0.3,
+      "final_start": 6.45
+    },
+    {
+      "id": "L04",
+      "text": "Normal. Almost... comforting.",
+      "pause_after": 0.55,
+      "final_start": 8.449
+    },
+    {
+      "id": "L05",
+      "text": "Then, on the bus, a stranger. Four minutes.",
+      "pause_after": 0.3,
+      "final_start": 11.062
+    },
+    {
+      "id": "L06",
+      "text": "You watched it count down.",
+      "pause_after": 0.35,
+      "final_start": 14.227
+    },
+    {
+      "id": "L07a",
+      "text": "Three.",
+      "slot": 1.0,
+      "final_start": 16.142
+    },
+    {
+      "id": "L07b",
+      "text": "Two.",
+      "slot": 1.0,
+      "final_start": 17.142
+    },
+    {
+      "id": "L07c",
+      "text": "One.",
+      "slot": 1.0,
+      "pause_after": 0.6,
+      "final_start": 18.142
+    },
+    {
+      "id": "L08",
+      "text": "He collapsed.",
+      "pause_after": 0.35,
+      "final_start": 19.742
+    },
+    {
+      "id": "L09",
+      "text": "Nobody looked up. Only you reacted.",
+      "pause_after": 0.7,
+      "final_start": 21.093
+    },
+    {
+      "id": "L10",
+      "text": "That night, you finally looked in the mirror.",
+      "pause_after": 0.3,
+      "final_start": 24.469
+    },
+    {
+      "id": "L11",
+      "text": "Your timer was the shortest in the room.",
+      "pause_after": 0.25,
+      "final_start": 27.286
+    },
+    {
+      "id": "L12",
+      "text": "Six days.",
+      "pause_after": 0.9,
+      "final_start": 29.968
+    },
+    {
+      "id": "L13",
+      "text": "And your reflection... moved a little late.",
+      "pause_after": 0.75,
+      "final_start": 31.906
+    },
+    {
+      "id": "L14",
+      "text": "The next morning, your teacher turned around.",
+      "pause_after": 0.3,
+      "final_start": 35.271
+    },
+    {
+      "id": "L15",
+      "text": "Six days.",
+      "pause_after": 0.45,
+      "final_start": 38.425
+    },
+    {
+      "id": "L16",
+      "text": "Same as yours. To the second.",
+      "pause_after": 0.35,
+      "final_start": 39.912
+    },
+    {
+      "id": "L17",
+      "text": "You don't know why.",
+      "pause_after": 0.8,
+      "final_start": 42.358
+    },
+    {
+      "id": "L18",
+      "text": "So... do you tell her?",
+      "pause_after": 0.3,
+      "final_start": 44.414
+    },
+    {
+      "id": "L19",
+      "text": "Or do you follow her?",
+      "pause_after": 0.55,
+      "final_start": 46.117
+    },
+    {
+      "id": "L20",
+      "text": "Comment A to tell her, or B to follow her. The majority decides Part Two.",
+      "pause_after": 1.6,
+      "final_start": 48.082
+    }
+  ],
+  "scenes": [
+    {
+      "id": "S01_wake",
+      "lines": [
+        "L01:start"
+      ],
+      "planned": [
+        0.0,
+        1.7
+      ],
+      "visual": "Extreme close-up: your eyes snap open in a dark bedroom, red timer-glow on your face. Glitch + hit on frame 1.",
+      "camera": "slow push-in, shake on eye-open",
+      "sfx": [
+        "hit",
+        "glitch",
+        "drone"
+      ],
+      "final": [
+        0.0,
+        1.038
+      ]
+    },
+    {
+      "id": "S02_street",
+      "lines": [
+        "L01:rest"
+      ],
+      "planned": [
+        1.7,
+        4.6
+      ],
+      "visual": "View from your window: people on the street below, every one with a glowing timer.",
+      "camera": "drift down with parallax",
+      "sfx": [
+        "timer pops",
+        "hit"
+      ],
+      "final": [
+        1.038,
+        3.946
+      ]
+    },
+    {
+      "id": "S03_kitchen",
+      "lines": [
+        "L02",
+        "L03",
+        "L04"
+      ],
+      "planned": [
+        4.6,
+        11.8
+      ],
+      "visual": "Kitchen morning. Mom with coffee (61 YRS), dog on the floor (3 YRS).",
+      "camera": "push to mom, pan to dog, pull back",
+      "sfx": [
+        "hit x2",
+        "clock tick bed"
+      ],
+      "final": [
+        3.946,
+        10.812
+      ]
+    },
+    {
+      "id": "S04_bus",
+      "lines": [
+        "L05",
+        "L06",
+        "L07a",
+        "L07b",
+        "L07c"
+      ],
+      "planned": [
+        11.8,
+        21.5
+      ],
+      "visual": "Bus interior, streetlights strobe past. Stranger with headphones: 00:04:00 racing down, then 3, 2, 1.",
+      "camera": "slow push to stranger, shakes on 3-2-1",
+      "sfx": [
+        "bus rumble",
+        "ticking",
+        "heartbeat",
+        "hit"
+      ],
+      "final": [
+        10.812,
+        19.142
+      ]
+    },
+    {
+      "id": "S05_collapse",
+      "lines": [
+        "L08",
+        "L09:first"
+      ],
+      "planned": [
+        21.5,
+        25.0
+      ],
+      "visual": "Stranger slumped on the bus floor, timer 00:00:00 flickers out. Everyone still on phones.",
+      "camera": "hard cut + shake",
+      "sfx": [
+        "thud",
+        "hit",
+        "silence"
+      ],
+      "final": [
+        19.142,
+        22.331
+      ]
+    },
+    {
+      "id": "S06_reaction",
+      "lines": [
+        "L09:last"
+      ],
+      "planned": [
+        25.0,
+        26.8
+      ],
+      "visual": "Close-up: you, wide-eyed, the only one reacting.",
+      "camera": "snap zoom",
+      "sfx": [
+        "heartbeat"
+      ],
+      "final": [
+        22.331,
+        24.169
+      ]
+    },
+    {
+      "id": "S07_mirror",
+      "lines": [
+        "L10",
+        "L11",
+        "L12",
+        "L13"
+      ],
+      "planned": [
+        26.8,
+        36.6
+      ],
+      "visual": "Bathroom mirror. Mom and dog pass behind you in the reflection. Your timer: 6 DAYS. The mirror is off: the reflected timer reads the right way round, and the reflection tilts late and almost smiles.",
+      "camera": "slow push to mirror, glitch on reveal",
+      "sfx": [
+        "drone",
+        "glitch",
+        "hit",
+        "heartbeat"
+      ],
+      "final": [
+        24.169,
+        35.021
+      ]
+    },
+    {
+      "id": "S08_class",
+      "lines": [
+        "L14",
+        "L15"
+      ],
+      "planned": [
+        36.6,
+        41.0
+      ],
+      "visual": "Classroom, students with long timers. Teacher turns from the board: 6 DAYS.",
+      "camera": "push to teacher, glitch + shake on reveal",
+      "sfx": [
+        "chalk",
+        "hit",
+        "glitch"
+      ],
+      "final": [
+        35.021,
+        39.712
+      ]
+    },
+    {
+      "id": "S09_compare",
+      "lines": [
+        "L16",
+        "L17"
+      ],
+      "planned": [
+        41.0,
+        45.0
+      ],
+      "visual": "Split screen: teacher / you, both timers ticking in perfect sync.",
+      "camera": "slow opposite drifts",
+      "sfx": [
+        "synced ticks",
+        "heartbeat"
+      ],
+      "final": [
+        39.712,
+        44.114
+      ]
+    },
+    {
+      "id": "S10_choice",
+      "lines": [
+        "L18",
+        "L19",
+        "L20"
+      ],
+      "planned": [
+        45.0,
+        55.0
+      ],
+      "visual": "Dark school hallway, teacher walking away, timer glowing. Cards: A = TELL HER, B = FOLLOW HER. 'Comment A or B \u2014 majority decides Part 2'.",
+      "camera": "slow push down the hallway",
+      "sfx": [
+        "drone",
+        "hit on each card",
+        "final hit"
+      ],
+      "final": [
+        44.114,
+        55.97
+      ]
+    }
+  ],
+  "cta": {
+    "A": "Tell her",
+    "B": "Follow her",
+    "text": "Comment A or B. The majority decides Part 2."
+  },
+  "elevenlabs": {
+    "voice": {
+      "model_id": "eleven_multilingual_v2",
+      "voice_hint": "calm, low, slightly uneasy male narrator",
+      "stability": 0.55,
+      "similarity_boost": 0.75,
+      "style": 0.25
+    },
+    "sfx_prompts": {
+      "hit": "deep cinematic impact hit with sub boom, short tail, horror reveal",
+      "glitch": "short digital glitch stutter, data corruption burst",
+      "tick": "single mechanical clock tick, close, dry",
+      "heartbeat": "slow heavy heartbeat, two beats, muffled, tense",
+      "thud": "body falling on bus floor, heavy dull thud",
+      "drone": "low ominous dark ambient drone, sustained, uneasy",
+      "whoosh": "fast dark whoosh transition",
+      "bus": "city bus interior ambience, engine rumble, muffled traffic",
+      "chalk": "chalk tapping on blackboard, classroom",
+      "riser": "tense reverse riser building to a hit"
+    },
+    "music_prompt": "quiet dark ambient underscore, minor key pads, sparse music box notes, uneasy"
+  },
+  "final_duration_s": 55.97
+}
